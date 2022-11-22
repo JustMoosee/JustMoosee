@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JustMoosee
+- 👀 I’m interested in front-end web development
+- 🌱 I’m currently learning HTML, Javascript, and CSS
